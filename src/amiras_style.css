@@ -1,0 +1,23 @@
+.rubrik { color: #471361; font-size: 14pt; font-family: "Courier New", Courier, Monaco, monospace; font-weight: bold; font-style: normal; font-variant: small-caps; text-transform: capitalize; }
+a { color: #b31075; font-weight: bold; }
+.text {
+	color: #250547;
+	font-size: 12pt;
+	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+}
+.bold {
+	color: #250547;
+	font-size: 12pt;
+	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+body ul {
+	text-align: left;
+}
+ul {
+	text-align: left;
+}
